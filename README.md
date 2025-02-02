@@ -17,10 +17,4 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in dat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssakethreddy&layout=compact)
 
 
-
-## 📬 Let's Connect
-Feel free to reach out if you're interested in collaborating on data science or machine learning projects, or if you just want to chat about technology!
-
----
-
 Thanks for visiting my profile! 👨‍💻
