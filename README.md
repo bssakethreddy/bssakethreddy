@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in dat
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Data Analyst** at **Compass Group**, helping drive data-driven decisions and improve operational efficiency.
-- 🌱 I’m learning more about **Data Science Technologies **, **AWS**, **Cloud Computing**, and **Big Data**.
+- 🌱 I’m learning more about **Data Science Technologies**, **AWS**, **Cloud Computing**, and **Big Data**.
 - 💬 Ask me about **Python**, **SQL**, **Machine Learning**, **Tableau** and **Power BI**.
 - 📫 How to reach me: [Email](mailto:bsssakethreddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakethreddybonthu)
     
