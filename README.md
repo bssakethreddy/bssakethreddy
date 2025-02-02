@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in dat
 - 🌱 I’m learning more about **Data Science Technologies **, **AWS**, **Cloud Computing**, and **Big Data**.
 - 💬 Ask me about **Python**, **SQL**, **Machine Learning**, **Tableau** and **Power BI**.
 - 📫 How to reach me: [Email](mailto:bsssakethreddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakethreddybonthu)
-- ![Profile Views](https://komarev.com/ghpvc/?username=bssakethreddy)
+  ![Profile Views](https://komarev.com/ghpvc/?username=bssakethreddy)
 
 
 ## 📈 GitHub Stats
