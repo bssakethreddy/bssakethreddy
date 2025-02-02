@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in dat
 ## 📈 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bssakethreddy&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bssakethreddy&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=bssakethreddy)
+
 
 
 ## 📬 Let's Connect
