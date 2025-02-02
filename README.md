@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in dat
     
   ![Profile Views](https://komarev.com/ghpvc/?username=bssakethreddy)
   
-## 🚀 My Projects
+## 🔧 My Projects
 
 If you're interested in exploring the projects I've worked on, feel free to check out the repositories below! Each project highlights my experience with data analysis, machine learning, and cloud computing:
 
