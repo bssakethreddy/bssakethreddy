@@ -1,5 +1,4 @@
 # Hi, I'm Saketh Reddy Bonthu 👋
-# Hello, I'm Saketh Bonthu! <sub>👋</sub>
 
 Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in data science, machine learning, and cloud computing. I am passionate about transforming raw data into actionable insights that drive business performance and efficiency.
 
