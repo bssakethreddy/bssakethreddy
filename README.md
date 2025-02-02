@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Saketh Bonthu 👋
 
-<!--
-**bssakethreddy/bssakethreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Data Analyst with a strong foundation in data science, machine learning, and cloud computing. I am passionate about transforming raw data into actionable insights that drive business performance and efficiency.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working as a **Data Analyst** at **Compass Group**, helping drive data-driven decisions and improve operational efficiency.
+- 🌱 I’m learning more about **Data Science Technologies **, **AWS**, **Cloud Computing**, and **Big Data**.
+- 💬 Ask me about **Python**, **SQL**, **Machine Learning**, **Tableau** and **Power BI**.
+- 📫 How to reach me: [Email](mailto:bsssakethreddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakethreddybonthu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+
+## 📬 Let's Connect
+Feel free to reach out if you're interested in collaborating on data science or machine learning projects, or if you just want to chat about technology!
+
+---
+
+Thanks for visiting my profile! 👨‍💻
