@@ -48,7 +48,7 @@ A MERN-based AI chatbot inspired by ChatGPT, designed to provide secure and modu
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sakethreddybonthu)  
-- 🌐 [Portfolio](https://github.com/sakethreddybonthu)  
+- 🌐 [Portfolio](https://bssakethreddy.github.io/portfolio-/)  
 - 📧 sakethreddyb@outlook.com
 
 ---
